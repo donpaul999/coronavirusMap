@@ -89,7 +89,7 @@ var svgMapDataGPD = {
     GA: {gdpAdjusted: 0, suspected: 0, deaths: 0},
     GM: {gdpAdjusted: 0, suspected: 0, deaths: 0},
     GE: {gdpAdjusted: 0, suspected: 0, deaths: 0},
-    DE: {gdpAdjusted: 0, suspected: 0, deaths: 0},
+    DE: {gdpAdjusted: 1, suspected: 0, deaths: 0},
     GH: {gdpAdjusted: 0, suspected: 0, deaths: 0},
     GR: {gdpAdjusted: 0, suspected: 0, deaths: 0},
     GD: {gdpAdjusted: 0, suspected: 0, deaths: 0},
